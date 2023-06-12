@@ -10,10 +10,17 @@ Created Account in Tableau public.
 
 ### (your step 2)
 I selected Option 2 dataset is [Cause of Death - Our World In Data](https://www.kaggle.com/datasets/ivanchvez/causes-of-death-our-world-in-data?resource=download).
+
+The Global Burden of Disease is a major global study on the causes of death and disease published in the
+medical journal The Lancet. These estimates of the annual number of deaths dataset are shown here.
+Downloaded https://ourworldindata.org/causes-of-death dataset from the first chart as CSV.
+In these dataset covered number of death people in last 40 years with country name and causes of their death.
+
 In this dataset has 2 CSV file: 
 (1) annual-number-of-deaths-by-cause.csv
 (2) Causes Of Death Clean Output V2.0.csv
 Import both CSV files into Tableau database and created reationship between them by country code.
+
 There are many important questions that helps to understand data in detail:
 
 What caused people's death? 
