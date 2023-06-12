@@ -17,12 +17,19 @@ Import both CSV files into Tableau database and created reationship between them
 There are many important questions that helps to understand data in detail:
 
 What caused people's death? 
+
 How did the causes of death change over time and differ between different countries and world regions? 
+
 Which country has the highest death of people?
+
 Which disease is the most spread over the world?
+
 which country has the highest number of death by causes?
+
 which diseases have the lowest effect on the population?
+
 Comparison of death by addiction in countries sort by income level.
+
 Created forecasting for the highest and the lowest amount of people affected by diseases
 
 ## Results
